@@ -1,12 +1,12 @@
 :root {
-  --jumbotron-padding-y: 3rem;
+  --jumbotron-padding-y: 1.5rem;
 }
 
 .jumbotron {
   padding-top: var(--jumbotron-padding-y);
   padding-bottom: var(--jumbotron-padding-y);
   margin-bottom: 0;
-  background-color: #fff;
+  background-color: #1f2530;
 }
 @media (min-width: 768px) {
   .jumbotron {
@@ -21,6 +21,7 @@
 
 .jumbotron-heading {
   font-weight: 300;
+  color: #fff;
 }
 
 .jumbotron .container {

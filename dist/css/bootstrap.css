@@ -4930,15 +4930,14 @@ tbody.collapse.show {
 }
 
 .jumbotron {
-  padding: 2rem 1rem;
+  padding: 30px 30px;
   margin-bottom: 2rem;
   background-color: #e9ecef;
-  border-radius: 0.3rem;
 }
 
 @media (min-width: 576px) {
   .jumbotron {
-    padding: 4rem 2rem;
+    padding: 30px 30px;
   }
 }
 
@@ -6145,7 +6144,7 @@ button.bg-light:focus {
 }
 
 .bg-dark {
-  background-color: #343a40 !important;
+  background-color: #111823 !important;
 }
 
 a.bg-dark:hover, a.bg-dark:focus,
@@ -8888,7 +8887,7 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 .text-muted {
-  color: #6c757d !important;
+  color: #959da3 !important;
 }
 
 .text-hide {
